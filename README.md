@@ -1,6 +1,6 @@
 # MLExercises
 
-A collection of basic ML exercises (mostly based on Adrew Ng's ML course)
+A collection of basic ML exercises (mostly based on Andrew Ng's ML course)
 
 1. MLActivity 1: **Univariate Linear Regression - Gradient Descent/Normal Equation** (https://classroom.github.com/assignment-invitations/024acff4f1ded6c1ace98d3c578d3d53)
 2. MLActivity 2: **Multivariate Linear Regression** (https://classroom.github.com/assignment-invitations/f290d82c45a72a473686f8f166771793)
