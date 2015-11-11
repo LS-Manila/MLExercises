@@ -28,4 +28,10 @@ $ git push -u origin master
 <then Enter Username and Password>
 ```
 
+## ANN in Android
+
+1. FANN Sample (https://github.com/DeLaSalleUniversity-Manila/fastartificialneuralnetworkinandroid-melvincabatuan)
+
+
+
 "*Failure is success if we learn from it.*" - Malcolm Forbes
