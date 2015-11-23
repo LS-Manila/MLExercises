@@ -11,7 +11,7 @@ A collection of basic ML exercises (mostly based on Andrew Ng's ML course)
 7. MLActivity 7: **MNIST Multi-class Classification - one vs. rest with Neural Network introduction** (T.B.A.)
 8. MLActivity 8: **Multi-class Classification and Neural Networks** (T.B.A.)
 9. MLActivity 9: **Introduction to Neural Networks in iPython** (https://github.com/DeLaSalleUniversity-Manila/Neural-Networks-Demystified)
-10. MLActivity 10: **Introduction to FANN Library** (https://github.com/DeLaSalleUniversity-Manila/fann)
+10. MLActivity 10: **XOR Example: Introduction to Fast Artificial Neural Network (FANN) Library** (https://github.com/DeLaSalleUniversity-Manila/fann)
 11. MLActivity 11: **MNIST Classification with Fast Artificial Neural Network (FANN) Library** (https://github.com/DeLaSalleUniversity-Manila/ArtificialNeuralNetworkWithFANNonMNIST)
 12. MLActivity 12: **Final Project Presentation**
 
