@@ -28,9 +28,22 @@ $ git push -u origin master
 <then Enter Username and Password>
 ```
 
-## ANN in Android
 
-1. FANN Sample (https://github.com/DeLaSalleUniversity-Manila/fastartificialneuralnetworkinandroid-melvincabatuan)
+
+
+## Project
+
+- Write an IEEE conference paper that applies an Artificial Neural Network (ANN) to solve a specific problem within the DLSU campus, or a unique Filipino problem.
+- Proposal Pitch Video Deadline: 
+                    November 5, 2015
+- Paper Deadline:
+                    November 26, 2015 
+1. [REQUIRED] Dataset: Unique data from the Philippine setting or specific to DLSU ***
+1. [REQUIRED] Divide data into Train, Validation, and Test
+1. [REQUIRED] Cost function plot
+1. [REQUIRED] MSE plots
+1. [REQUIRED] Confusion matrix
+1. [REQUIRED] Accuracy > 80 %
 
 
 
