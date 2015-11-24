@@ -45,6 +45,8 @@ $ git push -u origin master
 1. [REQUIRED] Confusion matrix
 1. [REQUIRED] Accuracy > 80 %
 
+TO SUBMIT, PLEASE CLICK THE FOLLOWING LINK:
 
+https://classroom.github.com/assignment-invitations/156a06d938e7a332e2041c68499b8330 
 
 "*Failure is success if we learn from it.*" - Malcolm Forbes
